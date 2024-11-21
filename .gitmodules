@@ -1,0 +1,5 @@
+[submodule "lib/monitoring_project"]
+	path = lib/monitoring_project
+	url = https://github.com/NicoSeia/MonitoreoLinux.git
+	branch = develop
+

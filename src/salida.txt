@@ -1,0 +1,25 @@
+/home/nicolas/Desktop/Universidad/OSI/TP2/so-i-24-chp2-NicoSeia/src
+command.c
+exec.c
+input.txt
+log.txt
+main.c
+prompt.c
+salida.txt
+script.txt
+shell.o
+
+
+*******************************
+**        WELCOME TO         **
+**         DYSTOPIA          **
+*******************************
+
+
+   - USE AT YOUR OWN RISK -
+   - Proceed with caution -
+
+   USER: nicolas
+
+nicolas@nicolas:~/Desktop/Universidad/OSI/TP2/so-i-24-chp2-NicoSeia/src$Hello World
+nicolas@nicolas:~/Desktop/Universidad/OSI/TP2/so-i-24-chp2-NicoSeia/src$nicolas@nicolas:~/Desktop/Universidad/OSI/TP2/so-i-24-chp2-NicoSeia/src$nicolas@nicolas:~/Desktop/Universidad/OSI/TP2/so-i-24-chp2-NicoSeia/src$Good bye :)
