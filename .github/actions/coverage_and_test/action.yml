@@ -47,10 +47,10 @@ runs:
             exit 1
         fi
 
-    # Upload errors as an artifact, when failed
-    #- uses: actions/upload-artifact@v3
-    #  if: failure()
-    #  with:
-    #    name: Tests or coverage errors!!!
-    #    path: ./tests_errors.txt
-    #    retention-days: 1
+     Upload errors as an artifact, when failed
+    - uses: actions/upload-artifact@v3
+      if: failure()
+      with:
+        name: Tests or coverage errors!!!
+        path: ./tests_errors.txt
+        retention-days: 1
